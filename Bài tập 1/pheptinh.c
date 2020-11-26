@@ -4,9 +4,9 @@ int main(void) {
 // khai bao bien kieu int
 int a, b;
 // khoi tao bien a = 3;
-int a = 3;
+a = 3;
 // khoi tao bien b = 5
-int b = 5;
+b = 5;
 int tong, hieu , tich;
 double thuong;
  tong = a + b;
