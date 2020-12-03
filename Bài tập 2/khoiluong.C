@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
+  //khai bao bien m
   int m;
   scanf("%d", &m);
   printf("m = %dg\n", m * 1000);
