@@ -14,7 +14,7 @@ int dongia, soluong, thanhtien;
 thanhtien = dongia * soluong;
 
 			//soluong >=5 vs don gia >=500 se giam 50%
-	if (soluong >= 5, dongia>=500){
+	if (soluong >= 5 && dongia>=500){
   		printf("so tien can phai thanh toan la %d", thanhtien *50/100);
 
 }else{
